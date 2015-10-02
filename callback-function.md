@@ -10,6 +10,6 @@
 * অন্য একটি  ফাংশন এর প্যারামিটার হিসেবে পাস করা যায়।
 * ফাংশনটিকে অন্য একটি ফাংশন থেকে রিটার্ন করা যায়। 
 * ফাংশনটি *Object* type এর  *instance*
-* ফাংশনটি *properties* রয়েছে। 
+* ফাংশনটির *properties* থাকে।
 
 **IMP LINK** [first-class functions](http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/) in details
